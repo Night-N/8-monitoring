@@ -11,7 +11,7 @@ https://github.com/Night-N/8-monitoring/blob/master/main.tf
 ```
 #cloud-config\nruncmd:\n  - 'wget -O - https://monitoring.api.cloud.yandex.net/monitoring/v2/unifiedAgent/config/install.sh | bash'
 ```
-`Дашборд:`\
+`Дашборд:`
 ![Название скриншота](https://github.com/Night-N/8-monitoring/blob/master/mon-dashboard.jpg)
 
 
@@ -20,19 +20,19 @@ https://github.com/Night-N/8-monitoring/blob/master/main.tf
 
 ### Задание 2
 
-`Машина нагружена с помощью утилиты stress:`\
+`Машина нагружена с помощью утилиты stress:`
 
 ![Название скриншота](https://github.com/Night-N/8-monitoring/blob/master/mon-stress.jpg)
 
 
-`Отображение в панели:`\
+`Отображение в панели:`
 
 ![Название скриншота](https://github.com/Night-N/8-monitoring/blob/master/mon-alert2.jpg)
 
 
 
-`Уведомление на почте:`\
+`Уведомление на почте:`
 
 
-![Название скриншота](https://github.com/Night-N/8-monitoring/blob/master/mon-alert.jpg)
+![Название скриншота](https://github.com/Night-N/8-monitoring/blob/master/mon-cpu-alert.jpg)
 
