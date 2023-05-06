@@ -7,7 +7,7 @@
 `Создание ВМ, дашборда, подключение мониторинга Unified Agent с помощью терраформа:`\
 https://github.com/Night-N/8-monitoring/blob/master/main.tf
 
-`Unified agent устанавливается передачей метаданных при создании машины:`\
+`Unified agent устанавливается передачей метаданных при создании машины:`
 ```
 #cloud-config\nruncmd:\n  - 'wget -O - https://monitoring.api.cloud.yandex.net/monitoring/v2/unifiedAgent/config/install.sh | bash'
 ```
