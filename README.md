@@ -11,7 +11,7 @@ https://github.com/Night-N/8-monitoring/blob/master/main.tf
 ```
 #cloud-config\nruncmd:\n  - 'wget -O - https://monitoring.api.cloud.yandex.net/monitoring/v2/unifiedAgent/config/install.sh | bash'
 ```
-`Дашборд:`
+`Дашборд:`<br>
 ![Название скриншота](https://github.com/Night-N/8-monitoring/blob/master/mon-dashboard.jpg)
 
 
