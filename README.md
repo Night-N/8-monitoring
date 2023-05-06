@@ -5,7 +5,7 @@
 ### Задание 1
 
 `Создание ВМ, дашборда, подключение мониторинга Unified Agent с помощью терраформа:`
-https://github.com/Night-N/8-monitoring/blob/master/main.tf
+`https://github.com/Night-N/8-monitoring/blob/master/main.tf`
 
 `Unified agent устанавливается передачей метаданных при создании машины:`
 ```
